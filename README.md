@@ -3,6 +3,6 @@ Contributors list:
   2. Dhruv Gullia
   3. Edmund Luhur
   4. Yifan
-  5. Eric (Xiang)
+  5. Eric Cheng (Xiang Cheng)
   6. Nadia
 
