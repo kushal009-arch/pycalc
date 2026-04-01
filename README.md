@@ -1,5 +1,6 @@
 Contributors list:
   1. Kushal Yadav
+  2. Dhruv Gullia
 <!--  2. Dhruv
   3. Yifan
   4. Edmund
