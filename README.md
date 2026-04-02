@@ -4,4 +4,5 @@ Contributors list:
   3. Edmund Luhur
   4. Yifan Chen
   5. Eric Cheng (Xiang Cheng)
+  6. Nadia De Lorenzo
 
